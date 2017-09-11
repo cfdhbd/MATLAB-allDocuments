@@ -5,5 +5,7 @@ In senior year, I was selected to take a graduate course titled Computation Meth
 
 The 2nd half of the course focused on OpenFOAM and CFD solving techniques. The codes for week6-10 can be found in cfdhbd github under 'openFoam'
 
+In addition to the Computational Methods course, there are files for my Capstone project (martian soil filtration models...enzyme reactions) and various PDE's for my Unit Operations class. 
+
 Email: jonkirchman@gmail.com 
 Please contact me with any questions or comments. 
