@@ -1,5 +1,5 @@
 # MATLAB-allDocuments
-Computational Methods 2
+Computational Methods 2 Graduate Course
 
 In senior year, I was selected to take a graduate course titled Computation Methods 2. This course was an expansion upon Computational Methods 1, and focused on solving differential equations with MATLAB for the 1st half of the course. 
 
